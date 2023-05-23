@@ -1,6 +1,6 @@
 # clima_weather_app
 
-A new Flutter project.
+This is a angela yu weather app example using api calls using http package and  devcie permission for location  using geolocator package  
 
 ## Getting Started
 
